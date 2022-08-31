@@ -1,4 +1,4 @@
-# Git and GitHub
+# Git2 and GitHub2
 
 1. [What is Git?](#1)
 2. [What is GitHub?](#2)
